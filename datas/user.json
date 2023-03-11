@@ -1,0 +1,30 @@
+[
+  {
+    "id": "kimkim",
+    "password": "kimkim123",
+    "name": "kim yo-a",
+    "age": 12,
+    "job": "programmer"
+  },
+  {
+    "id": "eress",
+    "password": "eristol321",
+    "name": "choi hye-jeong",
+    "age": 36,
+    "job": "steward"
+  },
+  {
+    "id": "y.j.park",
+    "password": "yjyj111",
+    "name": "park yeon-jin",
+    "age": 36,
+    "job": " whether caster"
+  },
+  {
+    "id": "mumu",
+    "password": "mumusang",
+    "name": "sarada",
+    "age": 23,
+    "job": "chef"
+  }
+]
